@@ -1,0 +1,91 @@
+@charset "UTF-8";
+	body {
+	font-family:  Helvetica Neue, Helvetica, Arial, sans-serif;
+	background-color: C7DCEA;
+	color: #000000;
+	}
+	h1 {
+		background-color: C7DCEA;
+		color: #000000;
+	}
+	h2 {
+		background-color: C7DCEA;
+		color: #000000;
+	}
+	#tabs {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		box-sizing: inherit;
+		list-style-type: none;
+	}
+	#tabs .help {
+		display: inline-block;
+		margin-right: 20px;
+	}
+	.help li {
+		background-color: #413E4A;
+		color: #F7E4BE;
+		box-sizing: border-box;
+		box-sizing: inherit;
+		padding: 1em;
+	}
+	#tabs nav ul {
+		margin: 0;
+		padding: 0; 
+		list-style-type: none;
+		display: flex;
+		justify-content: center;
+	}	
+	#tabs nav ul li a {
+		display: block;
+		border: 1px solid;
+		border-radius: .5em;
+		padding: .5em 1 em;
+		margin: .5em;
+		color: #F7E4BE;
+	}
+	.indent {
+		text-indent: 2.0em;
+	}
+	.tvimage {
+		display: table-cell;
+		height: 300px;
+		text-align: center;
+		width: 600px;
+		vertical-align: middle;
+	}
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%
+	}
+	.apple {
+		display: inline-block;
+		float: center;
+		padding: 12px;
+		
+	}
+	.photoimg {
+		border: 5px solid #555;
+	}
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 0 4px;
+	}
+	.column {
+		flex: 50%;
+		padding: 0 4px;
+	}	
+	.column img {
+		margin-top: 8px;
+		vertical-align: middle;
+	}	
+	.dogimg {
+		float: right;
+		border: 1px;
+		padding: 10px;
+	}
+© 2021 GitHub, Inc.
