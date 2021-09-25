@@ -20,21 +20,13 @@
 			</ul>
 		</div>
 		<h1>Local Physicians Group </h1>
+		<img src="doctor.jpg" alt"" width="200" height="100"/>
 	</header>
 	<section>
-		<h2>About Me</h2>
+		<h2>About Us</h2>
 		<p>Welcome to LPG. We consist of 25 physicians, lab and x-ray technicians, nurses and assistants. We serve the local community of Brighton, Colorado with approximately 3,000 patients. 
 		Our services include: emergency medical treatment, wellness checkups, disease management, and many other medical offerings.
-		<p>Pictures of places we plan on traveling to:</p>
-		<img src="cancun.jpg" alt="" width="500" height="400"/>
-		<img src="loch.jpg" alt="" width="300" height="400"/>
-		<img src="mallofamerica.jpg" alt="" width="500" height="400"/>
-		<h2>Our favorite travel websites:</h2>
-		<li><a href="https://www.airbnb.com/">Airbnb</a></li>
-		<li><a href="https://www.kayak.com/">Kayak</a></li>
-		<li><a href="https://www.google.com/travel/flights">Google Flights</a></li>
 	</section>
 </body>
 </html>
-
 
