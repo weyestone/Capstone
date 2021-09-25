@@ -20,7 +20,7 @@
 			</ul>
 		</div>
 		<h1>Local Physicians Group </h1>
-		<img src="doctor.jpg" alt="doctor" width="200" height="100"/>
+		<img src="doctor.png" alt="doctor" width="200" height="100"/>
 	</header>
 	<section>
 		<h2>About Us</h2>
