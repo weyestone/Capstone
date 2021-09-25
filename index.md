@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -11,10 +10,13 @@
 			<div id="tabs">
 			<ul>
 				<li class="help"><a href="index.html">Home</a></li>
-				<li class="help"><a href="tvshows.html">TV Shows</a></li>
-				<li class="help"><a href="weddingplanning.html">Wedding Planning</a></li>
-				<li class="help"><a href="dogs.html">Dogs</a></li>
-				<li class="help"><a href="pictures.html">Pictures of My Life</a></li>
+				<li class="help"><a href="Cardiology.html">TV Shows</a></li>
+				<li class="help"><a href="Oncology.html">Wedding Planning</a></li>
+				<li class="help"><a href="Wellness.html">Dogs</a></li>
+				<li class="help"><a href="Chiropractic.html">Pictures of My Life</a></li>
+				<li class="help"><a href="Emergency.html">Pictures of My Life</a></li>
+				<li class="help"><a href="Contact.html">Pictures of My Life</a></li>
+
 			</ul>
 		</div>
 		<h1>Home</h1>
@@ -35,3 +37,4 @@
 	</section>
 </body>
 </html>
+
