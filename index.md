@@ -10,22 +10,21 @@
 			<div id="tabs">
 			<ul>
 				<li class="help"><a href="index.html">Home</a></li>
-				<li class="help"><a href="Cardiology.html">TV Shows</a></li>
-				<li class="help"><a href="Oncology.html">Wedding Planning</a></li>
-				<li class="help"><a href="Wellness.html">Dogs</a></li>
-				<li class="help"><a href="Chiropractic.html">Pictures of My Life</a></li>
-				<li class="help"><a href="Emergency.html">Pictures of My Life</a></li>
-				<li class="help"><a href="Contact.html">Pictures of My Life</a></li>
+				<li class="help"><a href="Cardiology.html">Cardiology</a></li>
+				<li class="help"><a href="Oncology.html">Oncology</a></li>
+				<li class="help"><a href="Wellness.html">Wellness</a></li>
+				<li class="help"><a href="Chiropractic.html">Chiropractic</a></li>
+				<li class="help"><a href="Emergency.html">Emergency</a></li>
+				<li class="help"><a href="Contact.html">Contact Us</a></li>
 
 			</ul>
 		</div>
-		<h1>Home</h1>
+		<h1>Local Physicians Group </h1>
 	</header>
 	<section>
 		<h2>About Me</h2>
-		<p>Hi! My name is Whitley Eyestone and I am currently a student at Southwestern College pursuing my degree is Computer Programming Technology. I am also in the United States Air Force and I work as a weather forecaster. I am looking at separating from the military this year. I am married to my best friend, and we have three dogs together.</p>
-		<p>One of my husband and I's hobby's is traveling. Unfortunately, with the pandemic, we were unable to travel for much of the past year. But with the both of us getting out of the military soon, we will have more opportunities to travel overseas easily. We are also lucky that many of our loved one's are getting married in the near future, and all of the weddings are destination weddings. So our upcoming travels include: Minnesota, Scotland, Cancun, Kansas, and Nebraska. We are ecstatic for our future endeavors!</p>
-		<h2>Oh the places we will go!</h2>
+		<p>Welcome to LPG. We consist of 25 physicians, lab and x-ray technicians, nurses and assistants. We serve the local community of Brighton, Colorado with approximately 3,000 patients. 
+		Our services include: emergency medical treatment, wellness checkups, disease management, and many other medical offerings.
 		<p>Pictures of places we plan on traveling to:</p>
 		<img src="cancun.jpg" alt="" width="500" height="400"/>
 		<img src="loch.jpg" alt="" width="300" height="400"/>
@@ -37,4 +36,5 @@
 	</section>
 </body>
 </html>
+
 
