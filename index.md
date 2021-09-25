@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Whitley's Page</title>
+		<title>WLocal Physicians Group</title>
 		<link rel="stylesheet" href="format.css">
 	</head>
 
@@ -20,7 +20,7 @@
 			</ul>
 		</div>
 		<h1>Local Physicians Group </h1>
-		<img src="doctor.jpg" alt"" width="200" height="100"/>
+		<img src="doctor.jpg" alt="doctor" width="200" height="100"/>
 	</header>
 	<section>
 		<h2>About Us</h2>
@@ -29,4 +29,5 @@
 	</section>
 </body>
 </html>
+
 
