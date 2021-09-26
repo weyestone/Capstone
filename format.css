@@ -48,9 +48,9 @@
 	.indent {
 		text-indent: 2.0em;
 	}
-	p {
+	section {
 	border-style: solid;
 	border-width: 5px;
 	padding: 30px;
 	border-color: 02326A
-}
+	}
