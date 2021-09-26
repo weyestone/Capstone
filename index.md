@@ -27,5 +27,11 @@
 	<section>
 		<h2>About Us</h2>
 		<p>Welcome to LPG. We consist of 25 physicians, lab and x-ray technicians, nurses and assistants. We serve the local community of Brighton, Colorado with approximately 3,000 patients. 
-		Our services include: emergency medical treatment, wellness checkups, disease management, and many other medical offerings.
+		Our services include: emergency medical treatment, wellness checkups, disease management, and many other medical offerings.</p>
+	</section>
+</body>
+</html>
+
+
+
 
