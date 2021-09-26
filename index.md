@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>WLocal Physicians Group</title>
+		<title>Local Physicians Group</title>
 		<link rel="stylesheet" href="format.css">
 	</head>
 
@@ -20,7 +20,9 @@
 			</ul>
 		</div>
 		<h1>Local Physicians Group </h1>
-		<img src="doctor.png" alt="doctor" width="200" height="100"/>
+
+		<center><img src="doctor.png" alt="doctor" width="600" height="400"/></center>
+
 	</header>
 	<section>
 		<h2>About Us</h2>
@@ -29,5 +31,3 @@
 	</section>
 </body>
 </html>
-
-
