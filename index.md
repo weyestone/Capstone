@@ -19,7 +19,7 @@
 
 			</ul>
 		</div>
-		<h1>Local Physicians Group </h1>
+			<center><h1>Local Physicians Group </h1></center>
 
 		<center><img src="doctor.png" alt="doctor" width="600" height="400"/></center>
 
@@ -28,6 +28,4 @@
 		<h2>About Us</h2>
 		<p>Welcome to LPG. We consist of 25 physicians, lab and x-ray technicians, nurses and assistants. We serve the local community of Brighton, Colorado with approximately 3,000 patients. 
 		Our services include: emergency medical treatment, wellness checkups, disease management, and many other medical offerings.
-	</section>
-</body>
-</html>
+
