@@ -48,44 +48,8 @@
 	.indent {
 		text-indent: 2.0em;
 	}
-	.tvimage {
-		display: table-cell;
-		height: 300px;
-		text-align: center;
-		width: 600px;
-		vertical-align: middle;
-	}
-	.center {
-		display: block;
-		margin-left: auto;
-		margin-right: auto;
-		width: 50%
-	}
-	.apple {
-		display: inline-block;
-		float: center;
-		padding: 12px;
-		
-	}
-	.photoimg {
-		border: 5px solid #555;
-	}
-	.row {
-		display: flex;
-		flex-wrap: wrap;
-		padding: 0 4px;
-	}
-	.column {
-		flex: 50%;
-		padding: 0 4px;
-	}	
-	.column img {
-		margin-top: 8px;
-		vertical-align: middle;
-	}	
-	.dogimg {
-		float: right;
-		border: 1px;
-		padding: 10px;
-	}
-© 2021 GitHub, Inc.
+	p.one {
+	border-style: solid;
+	border-width: 5px;
+	padding: 30px;
+}
